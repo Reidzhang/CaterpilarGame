@@ -1,7 +1,9 @@
 # CaterpilarGame
 
 Authors:
+
 Wei-Wen Cheng
+
 Zhitao Zhang
 
 
