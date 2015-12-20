@@ -414,60 +414,6 @@ public class CaterpillarGame extends GWindowEventAdapter implements
 			isKeyboardEventNew2 = false;
 		}
 
-		// isKeyboardEventNew1 = true;
-		// isKeyboardEventNew2 = true;
-		//
-		// switch (Character.toLowerCase(e.getKey())) {
-		// case 'w':
-		// dirFromKeyboard1 = cp1.north;
-		// isKeyboardEventNew2 = false;
-		//
-		// break;
-		// case 'a':
-		// dirFromKeyboard1 = cp1.west;
-		// isKeyboardEventNew2 = false;
-		//
-		// break;
-		// case 'd':
-		// dirFromKeyboard1 = cp1.east;
-		// isKeyboardEventNew2 = false;
-		//
-		// break;
-		// case 's':
-		// dirFromKeyboard1 = cp1.south;
-		// isKeyboardEventNew2 = false;
-		//
-		// case 'i':
-		// dirFromKeyboard2 = cp2.north;
-		// isKeyboardEventNew1 = false;
-		//
-		// break;
-		// case 'j':
-		// dirFromKeyboard2 = cp2.west;
-		// isKeyboardEventNew1 = false;
-		//
-		// break;
-		// case 'l':
-		// dirFromKeyboard2 = cp2.east;
-		// isKeyboardEventNew1 = false;
-		//
-		// break;
-		// case 'k':
-		// dirFromKeyboard2 = cp2.south;
-		// isKeyboardEventNew1 = false;
-		//
-		// break;
-		// case 'q':
-		// System.exit(0);
-		// break;
-		// case 'c':
-		// this.window.stopTimerEvents();
-		// break;
-		// default:
-		// isKeyboardEventNew1 = false;
-		// isKeyboardEventNew2 = false;
-		// }
-
 	}
 
 	/**
